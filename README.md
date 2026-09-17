@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Karthika Ananth 👋
 
-<!--
-**Karthika3018/Karthika3018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Testing / QA | Manual Testing | Automation Testing
 
-Here are some ideas to get you started:
+I am a QA-focused professional with hands-on experience in manual and functional testing of web applications, along with practical experience in UI automation using Python, Playwright, Selenium, and Pytest.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+
+- Manual Testing: Functional, Regression, Smoke, Sanity, Exploratory, End-to-End
+- Automation: Python, Playwright, Selenium, Pytest, Page Object Model
+- API Testing: Postman, REST API Testing, JSON
+- Defect Management: Jira, Bug Tracking, Issue Reproduction, Issue Triage
+- Tools: Git, GitHub, GitHub Actions, CI/CD Basics
+- Database: SQL Basics
+
+### 📌 QA Automation Projects
+
+**Python API Automation Testing**
+- API testing and automation using Python.
+- Request/response validation and test execution.
+
+**QA Automation – Playwright**
+- UI automation using Python and Playwright.
+- Automated common web application workflows.
+- Practiced reusable automation using Page Object Model.
+
+### 📚 Currently Learning
+
+- Advanced Playwright Automation
+- Selenium WebDriver
+- API Automation
+- CI/CD for Test Automation
+
+### 📫 Connect With Me
+
+LinkedIn: linkedin.com/in/karthiak
