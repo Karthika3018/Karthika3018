@@ -1,6 +1,6 @@
 # Hi, I'm Karthika Ananth 👋
 
-### Software Testing / QA | Manual Testing | Automation Testing
+### Software Testing / QA | Manual Testing | Automation Testing | Application Support Engineer
 
 I am a QA-focused professional with hands-on experience in manual and functional testing of web applications, along with practical experience in UI automation using Python, Playwright, Selenium, and Pytest.
 
